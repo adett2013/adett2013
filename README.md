@@ -1,25 +1,39 @@
-# Welcome to My Profile!
-
-- My name is Arne Dettmer. I am a German front-end developer and I'm currently learning SQL and a bit of LUA to create Roblox games. I am certified in CSS by Mimo.org and I know not only how to create beautiful websites, but also how to make them user-friendly.
+# **Arne Georg Dettmer**
+## Learning Full Stack, loving Linux
+---
+### Status
+![Static Badge](https://img.shields.io/badge/Javascript%3A%2070%2F100%20%25%20-%20JS?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=black&color=yellow)
+![Static Badge](https://img.shields.io/badge/HTML%20100%25%20-%20HTML5?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS%20100%25%20-%20CSS3?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=black&color=%23663399)
+![Static Badge](https://img.shields.io/badge/Linux%20Terminal%2015%2F100%20%25%20-%20Linux%20Terminal?style=for-the-badge&logo=linux&logoColor=%23FCC624&labelColor=black&color=%23FCC624)
+![Static Badge](https://img.shields.io/badge/SQLITE%2030%2F100%20%25%20-%20SQLITE?style=for-the-badge&logo=sqlite&logoColor=%23003B57&labelColor=black&color=%23003B57)
 
 ---
 
-## About Me
+### 🏫 **About Me**
 
-- I am someone who learns the basics and then gains more knowledge by coding and doing.
-- I learn with Mimo.
-- I have worked on some big projects, but also many small ones.
-- After learning SQL and LUA, I will continue learning JavaScript to create more interactive websites.
+Hi! I’m `Arne Dettmer` (`adett2013`)  
+Student at a German school, passionate about **tennis** & **programming** :D
 
----
-
-## My Focus
-
-- At the moment, I am focusing on SQL, but also on LUA (to create stunning Roblox games in Roblox Studio).
-- With SQL, I want to create and manage databases to improve my skills, but first, I will practice the basics in Mimo (my favorite coding app).
+- 🎾 Tennis player & enthusiast
+- 💻 Professional in **HTML** and **CSS**
+- 🔥 Currently learning:  
+  - Full Stack: **JS**, **TS**, **React**, **SQL**
+  - **Linux Terminal**
+  - **Tailwind CSS** (just a bit!)
 
 ---
 
-## My Next Projects
+### 🌐 **Where to find me**
 
-- I am trying to create more beautiful websites for myself and friends to continue learning by doing.
+- 🏠 [My Websites & Portfolio](https://net.arne-dettmer.de)
+
+---
+
+### 🎉 **Fun Facts**
+
+- I love using Linux so much, but I use Windows as my main OS.
+- My very first website is still online—check it out at my portfolio link above.
+- I enjoy learning new tech, especially anything related to web development.
+
+---
