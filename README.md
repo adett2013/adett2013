@@ -6,6 +6,7 @@
 Here are some of my certifications and projects:
 - [My Website](https://arne-dettmer.de/portal)
 - [Online Dice](https://www.arne-dettmer.de/arnetwork/dice)
+- [Rock, Paper, Scissors (RPS)](https://www.arne-dettmer.de/arnetwork/rps)
 - Certified in Front-End Development (Mimo Max Graduate) [View certificate](https://www.virtualbadge.io/certificate-validator?credential=65a8a152-8601-48ff-8edd-310199b02716)
 ---
 
