@@ -25,7 +25,7 @@ Hi! I’m `Arne Dettmer` (`adett2013`)
 
 ### 🎉 **Fun Facts**
 
-- I love using Linux so much, but I use Windows as my main OS.
+- I love using Linux so much and use Ubuntu in the moment.
 - My very first website is still online—check it out at my portfolio link above.
 - I enjoy learning new tech, especially anything related to web development.
 
